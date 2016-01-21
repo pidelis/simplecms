@@ -94,8 +94,9 @@ mysqli_free_result($query);
                 <p>Name:Pidelis Njenga Pere</p>
                 <p>Reg no:EB1/08757/12</p>
                 <p>Unit: COMP 408</p>
-                <p>Unit Name: WEB DESIGN</p>
+            
             </marquee>
+            <iframe height="200px" width="200px" src="http://kh.regalhorizon.com"></iframe>
         </div>
         <br>
         <br>
