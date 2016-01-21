@@ -1,0 +1,138 @@
+#header{
+    border-radius: 20px;
+    background-color:#ff99ff ;
+}
+
+#header:hover{
+    border-radius: 20px;
+    background-color:#ffccff ;
+    
+}
+
+#admincheck{
+    
+    background-color:#ccc;
+    padding-left:500px;
+    background-image: url(../images/doodle_dude.png ) ;
+    background-repeat: no-repeat;
+    height:700px;
+    
+}
+
+input{
+
+    width:200px;
+    height:30px;
+    border-radius: 20px;
+    color:#000;
+    
+}
+
+#entry{
+    
+    background-color:#ccc;
+    padding-left:400px;
+    height:900px;
+    
+}
+#menu{
+    background-color:#ccccff;
+    margin-left: 20px;
+    border:2px solid pink;
+    width:250px;
+    height:800px;
+    float:left;
+    padding-left: 20px;
+    overflow: hidden;
+    
+}
+
+#menu:hover{
+    padding-left: 20px;
+    background-color: #ccccff;
+    margin-left: 20px;
+    width:250px;
+    float:left;
+    border-radius: 20px;
+    opacity:0.7;
+    height:800px;
+    overflow: scroll;
+        
+}
+
+#content{
+    position:inherit;
+    background-color:#ccccff;
+    margin-left: 10px;
+    float:left;
+    width:900px;
+    height:800px;
+    border-radius: 20px;
+    opacity:0.7;
+    overflow: hidden;
+    
+    
+}
+#content:hover{
+    background-color:#ffccff;
+    position:inherit;
+    margin-left: 10px;
+    float:left;
+    width:900px;
+    height:800px;
+    border-radius: 20px;
+    opacity:0.8;
+     overflow-y: scroll;
+}
+
+#footer{
+    height:50px;
+    padding-left: 50px;
+    padding-top: 200px;
+    width:900px;
+    margin-top: inherit;
+    margin-left:200px;
+    
+}
+
+#adminheader{
+    position:inherit;
+    
+    margin-left: 200px;
+    float:left;
+    width:900px;
+    border-radius: 20px;
+    padding-left: 50px;
+}
+
+#admincontent{
+    position:inherit;
+    background-image: url(../images/lead.jpg);
+    margin-left: 200px;
+    float:left;
+    width:900px;
+    border-radius: 20px;
+   
+    padding-left: 50px;
+    
+}
+#admincontent:hover{
+    background-image: url(../images/back2.jpg);
+    position:inherit;
+    margin-left: 200px;
+    float:left;
+    width:900px;
+    border-radius: 20px;
+    height:800px;
+
+    padding-left: 50px;
+}
+
+#me{
+    height:300px;
+    width:200px;
+    float:right;
+    padding: 20px;
+    color:#000099;
+  
+}
