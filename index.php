@@ -75,8 +75,7 @@ mysqli_free_result($query);
             <h4 align="center">indepthcoding.com</h4>
         <h4 align="center">The beauty of understanding the language core!!</h4>
         </div>
-        <p> I really did not want to destroy this great looking website</p>
-        <h1>This is all about web development</h1>
+        
              <strong><?php echo $custom1;?></strong>
             
                 
@@ -97,7 +96,7 @@ mysqli_free_result($query);
                 <p>Unit: COMP 408</p>
             
             </marquee>
-            <iframe height="200px" width="200px" src="http://kh.regalhorizon.com" alt="regalhorizon.com"></iframe>
+            <iframe height="200px" width="200px" src="http://kh.regalhorizon.com"></iframe>
         </div>
         <br>
         <br>
